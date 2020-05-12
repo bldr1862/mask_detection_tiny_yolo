@@ -23,6 +23,7 @@ https://github.com/aleju/imgaug
 
 ### FPS logrados:
 * 5FPS en un Intel Core i3 4005U
+* 12.5FPS en un Intel Core i5 8210Y
 
 
 ### Cómo usarlo?
