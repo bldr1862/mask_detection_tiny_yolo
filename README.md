@@ -2,6 +2,8 @@
 
 Tiny Yolo
 
+<img src="images/output/ty_image1.jpg" alt="drawing" style="width:500px;"/>
+
 ### Fuentes importantes de información que utilizamos para este proyecto
 
 * Cómo correr YOLO con OpenCV? </br>
@@ -25,10 +27,13 @@ https://github.com/aleju/imgaug
 
 ### Cómo usarlo?
 
-* Primero hay que instalar las dependencias necesarias para ejecutar el código
+* Primero hay que instalar las dependencias necesarias para ejecutar el código (win10)
 
 ```
 python -m venv virtual_env
+cd virtual_env/Scripts/
+activate
+cd ../../
 pip install -r requirements.txt
 ```
 
